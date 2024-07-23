@@ -1,5 +1,5 @@
-citylibrary Project - library management system 
-This project is a RESTful API built with Java Spring Boot for managing objects/users in a City Library system. It includes user management and object management functionalities.
+**citylibrary Project - library management system** 
+##This project is a RESTful API built with Java Spring Boot for managing objects/users in a City Library system. It includes user management and object management functionalities.
 
 Introduction
 The SuperApp Project provides an API to manage users and objects in a City Library system. It allows the creation, retrieval, update, and deletion of users, books and rooms, and supports various search functionalities.
